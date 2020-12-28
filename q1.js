@@ -14,7 +14,6 @@ function fib(inputNum) {
     }
 
     const fibArr = [1, 1];
-    const fibArr2 = [1, 1, 2, 3];
     let fib;
     
     for (let i=2; i < inputNum; i++) {
